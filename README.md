@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leanwithme" alt="leanwithme" /></a> </p>
 
+- 🔭 I’m currently working on **building Decentralized Applications**
+
 - 🌱 I’m currently learning **Swift , Nodejs**
+
+- 👯 I’m looking to collaborate on **NLP and Computer Vision projects**
+
+- 🤝 I’m looking for help with **integrating ML models with apps**
 
 - 💬 Ask me about **Machine Learning, Blockchain**
 
