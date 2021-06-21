@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A Tech Geek who is enthusiastic to learn new things everyday</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leanwithme&label=Profile%20views&color=0e75b6&style=flat" alt="leanwithme" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arcaman07&label=Profile%20views&color=0e75b6&style=flat" alt="arcaman07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leanwithme" alt="leanwithme" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arcaman07" alt="arcaman07" /></a> </p>
 
 - 🔭 I’m currently working on **building Decentralized Applications**
 
