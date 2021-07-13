@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arcaman07" alt="arcaman07" /></a> </p>
 
-- 🔭 I’m currently working on **building Decentralized Applications**
+- 🔭 I’m currently working on **Natural Language Processing(RNNs)**
 
-- 🌱 I’m currently learning **Swift , Nodejs**
+- 🌱 I’m currently learning **Backend development with Nodejs**
 
 - 👯 I’m looking to collaborate on **NLP and Computer Vision projects**
 
-- 🤝 I’m looking for help with **integrating ML models with apps**
+- 🤝 I’m looking for help with **integrating smart contracts on a decentralised system**
 
-- 💬 Ask me about **Machine Learning, Blockchain**
+- 💬 Ask me about **Machine Learning, Blockchain, Web Development**
 
 - 📫 How to reach me **amananytime07@gmail.com**
 
