@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Natural Language Processing(RNNs)**
 
-- 🌱 I’m currently learning **Backend development with Nodejs**
+- 🌱 I’m currently learning **Flutter App Development**
 
-- 👯 I’m looking to collaborate on **NLP and Computer Vision projects**
+- 👯 I’m looking to collaborate on **Any Killer Ideas**
 
 - 🤝 I’m looking for help with **integrating smart contracts on a decentralised system**
 
