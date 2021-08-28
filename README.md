@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arcaman07" alt="arcaman07" /></a> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing(RNNs)**
+- 🔭 I’m currently working on **Flutter App Development**
 
 - 🌱 I’m currently learning **Flutter App Development**
 
