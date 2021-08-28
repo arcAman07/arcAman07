@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter App Development**
 
-- 🌱 I’m currently learning **Flutter App Development**
+- 🌱 I’m currently learning **Rust and Docker**
 
 - 👯 I’m looking to collaborate on **Any Killer Ideas**
 
