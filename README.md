@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **Rust and Docker**
+- 🌱 I’m currently learning **Kubernetes and Rust**
 
 - 👯 I’m looking to collaborate on **Any Killer Ideas**
 
