@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **Kubernetes and Julia**
+- 🌱 I’m currently learning **Lightning Network and Julia**
 
 - 👯 I’m looking to collaborate on **Any Killer Ideas**
 
